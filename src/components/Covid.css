@@ -1,0 +1,23 @@
+h1 { 
+  color: #111;
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align: center;
+}
+
+#main-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px;
+}
+
+#select {
+  margin: 0 auto;
+  width: 40%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
